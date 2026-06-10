@@ -324,10 +324,10 @@ Este projeto é distribuído para fins de automação e administração de ambie
 Automação de Processos • Infraestrutura • TSplus • Suporte Corporativo
 
 GitHub:
-https://github.com/SEU-USUARIO
+https://github.com/Richard-Deivis
 
 LinkedIn:
-https://linkedin.com/in/SEU-PERFIL
+https://www.linkedin.com/in/richard-deivis/
 
 ---
 
