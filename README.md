@@ -315,7 +315,7 @@ GitHub:
 https://github.com/Richard-Deivis
 
 LinkedIn:
-https://www.linkedin.com/in/richard-deivis/
+https://www.linkedin.com/in/richarddeivis/
 
 ---
 
