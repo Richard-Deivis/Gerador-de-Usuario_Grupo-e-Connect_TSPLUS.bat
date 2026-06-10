@@ -291,18 +291,6 @@ Resultado:
 
 ---
 
-# 📸 Capturas de Tela
-
-Adicione aqui imagens do menu em execução.
-
-Exemplo:
-
-```markdown
-![Menu Principal](images/menu-principal.png)
-```
-
----
-
 # 🤝 Contribuições
 
 Sugestões e melhorias são bem-vindas.
